@@ -1,0 +1,3 @@
+language: python3.7
+script:
+    - python3.y -m pytest -v
